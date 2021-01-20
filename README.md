@@ -1,6 +1,15 @@
 # WeatherApp
-Was created as a test task for an interview
 
+## Technology stack:
+- iOS SDK.
+- Swift.
+- Apple Xcode.
+- MVC
+- UIKit.
+
+## Description
+
+Was created as a test task for an interview
 
 ## Screenshots
 
