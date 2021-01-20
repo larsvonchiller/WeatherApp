@@ -9,7 +9,7 @@
 
 ## Description
 
-Was created as a test task for an interview
+Was created as a test task for an interview. Shows weather considering your current geolocation.
 
 ## Screenshots
 
